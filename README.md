@@ -1,7 +1,5 @@
 # Handwritten-digits-recognition-MNIST
 
-# K-Means Clustering Algorithm (ML)
-
 A small program to create a discriminative classifier to identify different hand written digits.
 
 The MNIST dataset can be found on TensorFlows github page: 
